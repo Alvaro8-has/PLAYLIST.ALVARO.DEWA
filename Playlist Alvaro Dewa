@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://wearebla
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/11
 http://myteve.online:8080/2d124d42/50dbd8b08e/162138
 ##http://103.166.27.2:8112/play/a015/index.m3u8
 
@@ -58,6 +59,7 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTVLCOPT:http-user-agent=
 
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
 http://myteve.online:8080/2d124d42/50dbd8b08e/162141
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73637476303030303030303030303030:6a22f33ee77fab96b318fe3dd7e1335d
@@ -67,6 +69,7 @@ http://myteve.online:8080/2d124d42/50dbd8b08e/162141
 
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.18.3
 
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/22
 ##http://iptvtree.net:8080/F26646/f950f250/298550
 http://myteve.online:8080/2d124d42/50dbd8b08e/298550
 http://103.166.27.2:8112/play/a017/index.m3u8
@@ -1261,7 +1264,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 #http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1660693249" group-title="MOVIE",Cinema World
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.geocities.ws/alvaro8/cinema%20world.jpeg" group-title="MOVIE",Cinema World
 
 ##EXTVLCOPT:http-referrer=https://www.visionplus.id
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1343,7 +1346,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MOVIE",KIX MOVIE
 http://210.210.155.35/session/28aeb7b8-888c-11ed-8d27-c81f66f89318/dr9445/h/h07/02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529153_ico.png?ts=1654807431" group-title="MOVIE",Celestial Movies Indonesia
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.geocities.ws/alvaro8/celestial%20movie.jpeg" group-title="MOVIE",Celestial Movies Indonesia
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1415,9 +1419,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/flik%20logo.jpeg" group-title="MOVIE", FLIX
 
-http://iptvtree.net:8080/F26646/f950f250/165095
-http://myteve.online:8080/2d124d42/50dbd8b08e/165095
-##https://beetv.my.id/x/usee-flik-gojokkk.m3u8
+##http://iptvtree.net:8080/F26646/f950f250/165095
+##http://myteve.online:8080/2d124d42/50dbd8b08e/165095
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/23
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/maxtream%20logo.jpeg" group-title="MOVIE", MAXTREAM MOVIE
 
@@ -1443,7 +1447,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1655232909" group-title="MOVIE",ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/zee%20biokop.png" group-title="MOVIE",ZEE BIOSKOP
 
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1489,6 +1493,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/alvarodewa1/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #EXTINF:-1 tvg-logo="https://s.id/1d0TX" group-title="MOVIE",HBO INDONESIA
 
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/1
 http://myteve.online:8080/2d124d42/50dbd8b08e/197972
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1581,7 +1586,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 ##https://beetv.my.id/x/usee-galaxypremium-masihsama.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="MOVIE", HITz MOVIE
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="MOVIE", HITS MOVIE
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -1592,7 +1597,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 ##http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1660693686" group-title="MOVIE", HITZ
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/hits%20logo.jpeg" group-title="MOVIE", HITS
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1749,7 +1754,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 
-http://myteve.online:8080/2d124d42/50dbd8b08e/298546
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/26
 ##https://iptvme.xyz:443/vid/hls.m3u8?id=8237
 ##https://ariev.vercel.app/api/play.m3u?id=8237&pw=nepotisme
 ##http://103.166.27.2:8112/play/a018/index.m3u8
@@ -3128,6 +3133,14 @@ https://kusnadipepenk.github.io/ntn/arns3.m3u8
 
 https://kusnadipepenk.github.io/ntn/arns4.m3u8
 ##http://87.246.0.130/m3u8/arenasport4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HD | HR" tvg-logo="https://www.geocities.ws/alvaro8/arena%20sport%205.png" group-title="SPORT",ARENASPORT 5 HD
+
+http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2259
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 HD | HR" tvg-logo="https://www.geocities.ws/alvaro8/arena%20sport%206.png" group-title="SPORT",ARENASPORT 6 HD
+
+http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2258
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Arena_sport_premiun_1.jpg" group-title="SPORT",ARENA SPORT PREMIUM 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
