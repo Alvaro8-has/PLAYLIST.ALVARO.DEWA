@@ -1639,7 +1639,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="MOVIE",CHINESE DRAMA
 
-http://myteve.online:8080/2d124d42/50dbd8b08e/298516
+http://iptvtree.net:8080/F26646/f950f250/298516
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/One_movi.png" group-title="MOVIE",ONE
 
@@ -1658,7 +1658,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 ##http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/79
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-##http://kuchini.site:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157594
 ##https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/paramount%20network-logo.png" group-title="MOVIE",PARAMOUNT MOVIE
@@ -1770,7 +1769,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hip_hip_horee.jpg" group-title="ALVARO DEWA KIDZ",HIP-HIP HOREE
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-##https://iptvme.xyz:443/vid/hls.m3u8?id=7052
+https://iptvme.xyz:443/vid/hls.m3u8?id=7052
 http://myteve.online:8080/2d124d42/50dbd8b08e/298536
 ##https://ariev.vercel.app/api/play.m3u?id=7052&pw=nepotisme
 
@@ -2726,20 +2725,22 @@ https://ddy5.hlsjs.ru/ddy5/premium100/playlist.m3u8|referer=https://weblivehdpla
 
 EXTINF:-1 tvg-id="beINSports1Indonesia.id"  tvg-logo="https://i.ibb.co/0ZhMGwP/BEIN1ID.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT 1 ID
 
-##http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165105.ts
+http://iptvtree.net:8080/F26646/f950f250/165105
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 ##https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT ID 1
 
 http://myteve.online:8080/2d124d42/50dbd8b08e/165105
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://thomasxyurendav2.herokuapp.com/day.php?id=6299
 https://thomasxyurendav2.herokuapp.com/play.mpd?id=6299
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT MY 1
-https://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT MY 1
+
+http://iptvtree.net:8080/F26646/f950f250/282772
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2785,8 +2786,9 @@ http://iptvtree.net:8080/F26646/f950f250/298506
 ##https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT MY 3
-##http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298506
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT MY 3
+
+http://iptvtree.net:8080/F26646/f950f250/266844
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2797,7 +2799,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/b
 
 ##https://ddy6.hlsjs.ru/ddy6/premium93/playlist.m3u8|referer=https://weblivehdplay.ru/
 
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/4255
+##http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/4255
 ##https://dd2.ariev.workers.dev/nepotisme/114.124.236.209/93/play.m3u|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="⚽. BEINSPORT⚽",BEIN SPORT 4
