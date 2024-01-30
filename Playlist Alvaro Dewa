@@ -150,8 +150,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w819642010_b744100_sleng.m3u8
-##https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w819642010_b744100_sleng.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
@@ -164,8 +164,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d2
 
 
 ##https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/TRANS7.m3u8?token=GHSAT0AAAAAACMVJSUVXSWG5Q76M5JJO6GSZM6ZYDQ
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w11453651_b744100_sleng.m3u8
-##https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w11453651_b744100_sleng.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
