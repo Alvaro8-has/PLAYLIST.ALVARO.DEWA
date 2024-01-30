@@ -3102,12 +3102,13 @@ http://iptvtree.net:8080/F26646/f950f250/165105
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 ##https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="⚽. BEINSPORT⚽",BEIN SPORT ID 1
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport.png" group-title="SPORT",BEIN SPORT 1
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
