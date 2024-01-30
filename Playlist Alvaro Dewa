@@ -1725,6 +1725,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
+#EXTINF:-1 tvg-id="PARAMOUNT - [Channel 163].id" tvg-name="PARAMOUNT" tvg-logo="https://www.geocities.ws/alvaro8/paramount%20network-logo.png" group-title="MOVIE", PARAMOUNT MOVIE 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=706172616d6f756e7430303030303030:da2faf628a7e2bda68d12ae2da12b93c
+https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png" group-title="MOVIE",BOX MOVIE
 
 http://208.115.225.174:14165
@@ -4411,7 +4418,7 @@ https://d2t9x9riiebgk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1hlJAbH.png" group-title="LIFESTYLE",INSERT
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/insert%20logo.jpeg" group-title="LIFESTYLE",INSERT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
@@ -4419,7 +4426,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 ##http://xtv.ooo:8080/moon786/moon1200/350975
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Eat%26go.png" group-title="LIFESTYLE",EAT&GO
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/eat&go%20logo.jpeg" group-title="LIFESTYLE",EAT&GO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
@@ -4428,9 +4435,23 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 ##http://xtv.ooo:8080/moon786/moon1200/350939
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Afn_logo.jpg" group-title="LIFESTYLE",ASIAN FOOT NETWORK
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/eat&go%20logo.jpeg" group-title="LIFESTYLE",EAT&GO 2
 
-http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298503
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/afn%20logo.jpeg" group-title="LIFESTYLE",ASIAN FOOT NETWORK
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+##http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298503
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",FASHION TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
