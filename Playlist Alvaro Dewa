@@ -2138,12 +2138,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://tvlive.my.id:25461/ab/ab/423
 
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="" group-title="SPORT" tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg",SPO TV 🇲🇾
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT" tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg",SPO TV 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5058/default.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="" group-title="SPORT" tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg",SPO TV 2 🇲🇾
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT" tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg",SPO TV 2 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5079/default.mpd
