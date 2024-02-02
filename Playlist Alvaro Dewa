@@ -2138,34 +2138,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://tvlive.my.id:25461/ab/ab/423
 
-EXTINF:-1 tvg-id="beINSports1Indonesia.id"  tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg" group-title="SPORT",SPOTV 1 VIDIO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="" group-title="SPORTS" tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg",SPO TV 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=spotv1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-##https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5058/default.mpd
 
-
-EXTINF:-1 tvg-id="beINSports1Indonesia.id"  tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg" group-title="SPORT",SPOTV 2 VIDIO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="" group-title="SPORTS" tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg",SPO TV 2 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=spotv2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-##https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-EXTINF:-1   tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg" group-title="SPORT",SPOTV_🇰🇷
-##https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
-EXTINF:-1   tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg" group-title="SPORT",SPOTV_2_🇰🇷
-##https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
-EXTINF:-1   tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg" group-title="SPORT",SPOTV_ON_🇰🇷
-##https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
-EXTINF:-1   tvg-logo="https://cms.spotvasia.com/upload/boards/file_af7e3124-0b1d-4c14-abe2-ec98c0b8fc3e.jpg" group-title="SPORT",SPOTV_PRIME_🇰🇷
-##https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
-
-EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORT",SPORT TV
-
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/476514.ts
-##http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5079/default.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="SPORT",TVRI SPORT
 
