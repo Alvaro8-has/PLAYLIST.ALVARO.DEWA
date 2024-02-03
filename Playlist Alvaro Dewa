@@ -1632,14 +1632,14 @@ EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/&Flix_hd.jpeg" group-title=
 
 http://watchindia.net:8880/live/60427/00546/2088.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CpcBVfQ/galaxy.jpgo.png" group-title="MOVIE",GALAXY MOVIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7X9cK8/Galaxy.jpg" group-title="MOVIE",GALAXY MOVIE
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/galaxy%20premium.png" group-title="MOVIE",GALAXY MOVIE PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmkFHzS/Galaxy-Premium.jpg" group-title="MOVIE",GALAXY MOVIE PREMIUM
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
