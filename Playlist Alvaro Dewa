@@ -1627,7 +1627,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/&prive_hd.png" group-title="MOVIE",&PRIVE HD
 
