@@ -2290,9 +2290,12 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/DZNXtnm8/Tvp-sport.png" group-title="SP
 https://ddyx2.onlinewebtv.lol/ddyx2/premium128/playlist.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENTNT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z6xNS8T/laligatv.png" group-title="SPORT",LALIGA TV
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OioEceG7VySvek28ktxM2A","k":"3IoH6K8kDLLhaYxlLY/R0g"},{"kty":"oct","kid":"1yJmOGCHV6uJd71m9ao9vg","k":"fBeeBZPpx8wZBSYpUu7DmQ"}]}
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/LAc69D6V3qeJxn+F4uazQ","k":"MsSJtnrENMkvqodrb8CP1g"},{"kty":"oct","kid":"FdmsHn5tVKajiGC6ojAEMw","k":"uhJYusaFn3Gm1C/bTwMDCg"},{"kty":"oct","kid":"GU/e/RhvXCS9OZ02Vl2oQw","k":"ucPYgxibV//aPEr0iT/1gw"}]}
 https://tvup-live.akamaized.net/laliga1/laliga1.mpd
 
 ##EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="SPORT",NOVASPORT 1
