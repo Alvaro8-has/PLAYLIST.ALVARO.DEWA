@@ -1655,6 +1655,14 @@ http://watchindia.net:8880/live/60427/00546/2088.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7X9cK8/Galaxy.jpg" group-title="MOVIE",GALAXY MOVIE
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmkFHzS/Galaxy-Premium.jpg" group-title="MOVIE",GALAXY MOVIE PREMIUM
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -1663,6 +1671,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 ##https://beetv.my.id/x/usee-galaxypremium-masihsama.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmkFHzS/Galaxy-Premium.jpg" group-title="MOVIE",GALAXY MOVIE PREMIUM
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="MOVIE", HITS MOVIE
 
