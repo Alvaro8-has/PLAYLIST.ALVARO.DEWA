@@ -1342,6 +1342,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 ##https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.geocities.ws/alvaro8/cinema%20world.jpeg" group-title="MOVIE",Cinema World
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3d94VR9/cinemaeurope.jpg" group-title="MOVIE", MY CINEMA EUROPE
 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
@@ -1424,6 +1432,13 @@ http://210.210.155.35/session/28aeb7b8-888c-11ed-8d27-c81f66f89318/dr9445/h/h07/
 ##http://210.210.155.37/session/e8238d94-7404-11ee-a2f2-b9a3ba81695c/dr9445/h/h14/02.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.geocities.ws/alvaro8/celestial%20movie.jpeg" group-title="MOVIE",Celestial Movies Indonesia
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIE",CELESTIAL CLASIC MOVIE
 
