@@ -2852,16 +2852,19 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60582
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 
-https://kusnadipepenk.github.io/ntn/superprem.m3u8
-##https://01-24.webhd.ru/ddh1/cdn/premium414/playlist.m3u8|referer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium414&number=1
+https://02-24.webhd.ru/ddh1/cdn/premium414/playlist.m3u8|referer=https://weblivehdplay.ru/
+##https://kusnadipepenk.github.io/ntn/superprem.m3u8
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT MOTORSPORT
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php
 
-https://ddy3.hlsjs.ru/ddy3/premium424/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
-##https://01-24.webhd.ru/ddy5/cdn/premium424/playlist.m3u8|referer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium424&number=1
+https://02-24.webhd.ru/ddy5/cdn/premium424/playlist.m3u8|referer=https://weblivehdplay.ru/
+##https://ddy3.hlsjs.ru/ddy3/premium424/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT TENIS
 
