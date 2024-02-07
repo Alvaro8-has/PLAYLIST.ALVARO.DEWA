@@ -2838,8 +2838,9 @@ https://01-24.webhd.ru/ddy5/cdn/premium572/tracks-v1/mono.m3u8|referer=https://w
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT LA LIGA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
-##http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
-https://01-24.webhd.ru/ddh1/cdn/premium415/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium415&number=1
+https://02-24.webhd.ru/ddy3/premium415/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT FOOTBALL
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
