@@ -3629,47 +3629,34 @@ https://ddh2.webhd.ru/ddy1/premium43/playlist.m3u8|referer=https://weblivehdplay
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/BT_TNT%20LOGO.jpeg" group-title="SPORT",BT/TNT SPORT 1
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
-
-##https://01-24.webhd.ru/fls/cdn/premium31/playlist.m3u8|referer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium31&number=1
+https://02-24.webhd.ru/ddh1/premium31/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/BT_TNT%20LOGO.jpeg" group-title="SPORT",BT/TNT SPORT 2
 
-##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
-http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium31&number=1
 
-##https://01-24.webhd.ru/ddy5/cdn/premium32/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+https://02-24.webhd.ru/ddy2/premium32/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/BT_TNT%20LOGO.jpeg" group-title="SPORT",BT/TNT SPORT 3
 
-##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
-
-##https://01-24.webhd.ru/hzt/cdn/premium33/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium33&number=1
+https://02-24.webhd.ru/ddh1/premium33/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+##http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/BT_TNT%20LOGO.jpeg" group-title="SPORT",BT/TNT SPORT 4
 
-##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
-http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium34&number=1
 
-##https://01-24.webhd.ru/ddh2/cdn/premium34/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
-
+https://02-24.webhd.ru/ddh1/premium34/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+##http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
 
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Stanta_sport_1.jpg" group-title="SPORT",SETANTA SPORT
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -3694,20 +3681,23 @@ http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/6544/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="SPORT",RMC SPORT 1
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-
-https://01-24.webhd.ru/ddy5/cdn/premium119/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium119&number=1
+https://02-24.webhd.ru/ddh1/premium119/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rmcsport2fr.jpg" group-title="SPORT",RMC SPORT 2
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-
-https://01-24.webhd.ru/ddh1/cdn/premium120/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium120&number=1
+https://02-24.webhd.ru/ddy3/premium120/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 | FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsport3fr.jpg" group-title="SPORT",RMC SPORT 3
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-
-https://01-24.webhd.ru/ddh1/cdn/premium121/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium121&number=1
+https://02-24.webhd.ru/ddh1/premium121/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="SPORT",ARENA SPORT 1
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
