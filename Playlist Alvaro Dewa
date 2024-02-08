@@ -2822,12 +2822,14 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT ACTION
+
+http://103.113.116.150:25461/mtm1/12345/60
 ##EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium420&number=1
-https://02-24.webhd.ru/ddy5/premium420/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+##EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium420&number=1
+##https://02-24.webhd.ru/ddy5/premium420/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT MAXIMO 1
 
@@ -2864,12 +2866,14 @@ https://02-24.webhd.ru/ddy3/premium414/tracks-v1a1/mono.m3u8|referer=https://web
 ##https://kusnadipepenk.github.io/ntn/superprem.m3u8
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT MOTORSPORT
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium424&number=1
-https://02-24.webhd.ru/ddy5/cdn/premium424/playlist.m3u8|referer=https://weblivehdplay.ru/
+http://103.113.116.150:25461/mtm1/12345/58
+##EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php
+
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium424&number=1
+##https://02-24.webhd.ru/ddy5/cdn/premium424/playlist.m3u8|referer=https://weblivehdplay.ru/
 ##https://ddy3.hlsjs.ru/ddy3/premium424/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT TENIS
