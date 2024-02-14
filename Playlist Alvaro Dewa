@@ -3797,30 +3797,30 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel.jpeg" group-title="SPORT",SPORT TV 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
-https://01-24.webhd.ru/ddyx2/premium140/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://02-24.webhd.ru/ddyx2/premium140/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel2.jpeg" group-title="SPORT",SPORT TV 2
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 
-https://01-24.webhd.ru/ddy3/premium141/tracks-v1a1/mono.m3u8|referer:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://02-24.webhd.ru/ddy3/premium141/tracks-v1a1/mono.m3u8|referer:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel3.jpeg" group-title="SPORT",SPORT TV 3
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
-https://01-24.webhd.ru/ddy3/premium142/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://02-24.webhd.ru/ddy3/premium142/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel3.jpeg" group-title="SPORT",SPORT TV 4
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
-https://01-24.webhd.ru/ddy3/premium143/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://02-24.webhd.ru/ddy3/premium143/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel3.jpeg" group-title="SPORT",SPORT TV 5
 
-https://01-24.webhd.ru/ddy3/premium144/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://02-24.webhd.ru/ddy3/premium144/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLGdSHG/sctv15ssport2.png" group-title="SPORT",SCTV SPORT 1
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
