@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://wearebla
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
-https://ariev.vercel.app/api/play.m3u?id=205&pw=nkridamai&user-agent=
+https://ariev.vercel.app/api/play.m3u?id=205&pw=wakanda&user-agent=
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
@@ -59,7 +59,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
-https://ariev.vercel.app/api/play.m3u?id=204&pw=nkridamai&user-agent=
+https://ariev.vercel.app/api/play.m3u?id=204&pw=wakanda&user-agent=
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
@@ -80,7 +80,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 ##http://iptvtree.net:8080/F26646/f950f250/298550
 ##http://myteve.online:8080/2d124d42/50dbd8b08e/298550
 ##http://103.166.27.2:8112/play/a017/index.m3u8
-https://ariev.vercel.app/api/play.m3u?id=206&pw=nkridamai&user-agent=
+https://ariev.vercel.app/api/play.m3u?id=206&pw=wakanda&user-agent=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LIVE",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -306,7 +306,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 
@@ -320,7 +320,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
@@ -332,7 +332,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b384000_sleng.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 ##https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
@@ -357,7 +357,7 @@ EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" grou
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -384,7 +384,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -428,7 +428,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -469,7 +469,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 
@@ -487,7 +487,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/seru%20channel.jpeg" group-title="NASIONAL",SERU! CHANNEL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
@@ -532,7 +532,7 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/rw2Xykqj/Max2u-tv.jpg" group-title="NAS
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Kilat_tv.jpeg" group-title="NASIONAL",KILAT TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wahanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 
@@ -1366,7 +1366,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png" group-title="MOVIE",CINEMAX
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -1501,7 +1501,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 ##http://xtv.ooo:8080/moon786/moon1200/350906
@@ -1550,7 +1550,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846163f6883d8f/10ae9df09dad4f7eb8c1639600faed27.png" group-title="MOVIE",Sony GEM
@@ -1596,7 +1596,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0TX" group-title="MOVIE",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
@@ -1618,7 +1618,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0VK" group-title="MOVIE",HBO HIT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -1634,7 +1634,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0US" group-title="MOVIE",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
@@ -1650,7 +1650,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0Vm" group-title="MOVIE",HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
@@ -1763,7 +1763,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
@@ -1884,7 +1884,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 http://xtv.ooo:8080/moon786/moon1200/350989
 ##https://iptvme.xyz:443/vid/hls.m3u8?id=8237
-##https://ariev.vercel.app/api/play.m3u?id=8237&pw=nkridamai
+##https://ariev.vercel.app/api/play.m3u?id=8237&pw=wakanda
 ##http://103.166.27.2:8112/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="ALVARO DEWA KIDZ",MENTARI TV 2
@@ -1901,12 +1901,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 http://iptvtree.net:8080/vid/hls.m3u8?id=7052
 http://myteve.online:8080/2d124d42/50dbd8b08e/298536
-##https://ariev.vercel.app/api/play.m3u?id=7052&pw=nkridamai
+##https://ariev.vercel.app/api/play.m3u?id=7052&pw=wakanda
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HOREE_logo.png" group-title="ALVARO DEWA KIDZ",HOREE
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-##https://ariev.vercel.app/api/play.m3u?id=6397&pw=nepotisme
+##https://ariev.vercel.app/api/play.m3u?id=6397&pw=wakanda
 ##https://iptvme.xyz:443/vid/hls.m3u8?id=6397
 ##http://myteve.online:8080/2d124d42/50dbd8b08e/264750
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
@@ -1933,7 +1933,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 ##http://xtv.ooo:8080/moon786/moon1200/350937
@@ -2008,7 +2008,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
@@ -2017,7 +2017,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f218
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
@@ -2026,7 +2026,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 ##http://xtv.ooo:8080/moon786/moon1200/350908
@@ -2253,7 +2253,7 @@ http://iptvtree.net:8080/F26646/f950f250/298531
 #EXTINF:-1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg" group-title="SPORT",FIGTH TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
@@ -2315,7 +2315,7 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/133847
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Football_tv.jpeg" group-title="SPORT",FOOTBALL TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
@@ -2323,7 +2323,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777e
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/balaplogo.jpeg" group-title="SPORT",BALAP
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
@@ -4618,7 +4618,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/insert%20logo.jpeg" group-title="LIFESTYLE",INSERT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 ##http://xtv.ooo:8080/moon786/moon1200/350975
@@ -4627,7 +4627,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/eat&go%20logo.jpeg" group-title="LIFESTYLE",EAT&GO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 ##http://xtv.ooo:8080/moon786/moon1200/350939
@@ -4653,7 +4653,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",FASHION TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
@@ -4662,7 +4662,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
@@ -4671,7 +4671,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
@@ -4686,7 +4686,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6a98a62be4/f62c0a99f8974641a4589ad7b757f8f3.jpg" group-title="LIFESTYLE",COOKING
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
@@ -4695,7 +4695,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
@@ -4704,7 +4704,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845601f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
