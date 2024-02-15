@@ -43,7 +43,8 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://wearebla
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
-https://ariev.vercel.app/api/play.m3u?id=205&pw=wakanda&user-agent=
+https://ariev.vercel.app/api/play.m3u?id=205&pw=wakanda
+
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
@@ -58,7 +59,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
-https://ariev.vercel.app/api/play.m3u?id=204&pw=wakanda&user-agent=
+https://ariev.vercel.app/api/play.m3u?id=204&pw=wakanda
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
@@ -676,7 +677,7 @@ https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="tvtempo.id" tvg-logo="https://i.imgur.com/z22sDXa.png",TV Tempo
 
-https://ariev.vercel.app/api/play.m3u?id=7946&pw=nkridamai
+https://ariev.vercel.app/api/play.m3u?id=7946&pw=wakanda
 
 #EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NEWS",IDX
 
