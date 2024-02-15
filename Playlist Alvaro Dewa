@@ -180,15 +180,6 @@ http://rr3.dens.tv/s/s41/index.m3u8
 ##https://iptvme.xyz/vid/hls.m3u8?id=206
 ##http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a37645a92b03dcaab0e4e6b21a440ef:6ee84789d2b341c875eddae90e9fda04
-
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="NASIONAL",NET TV
 
@@ -202,6 +193,15 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
 ##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a37645a92b03dcaab0e4e6b21a440ef:6ee84789d2b341c875eddae90e9fda04
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="NASIONAL",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
