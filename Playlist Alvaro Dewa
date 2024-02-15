@@ -2711,6 +2711,14 @@ https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|referer=ht
 
 https://salamus2023.onlinehdhls.ru/ddy2/premium127/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
 
+#EXTINF:-1 group-title="SPORT" tvg-id="Матч! Футбол 1" tvg-logo="https://i.ibb.co/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png" group-title="SPORT",MATCH SPORT 1
 
