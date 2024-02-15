@@ -2705,18 +2705,12 @@ https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|referer=ht
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Match_tv.jpeg" group-title="SPORT",MATCH SPORT
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95c73bd19b15f008cc53b0c350eae89a:cb342d2e05bc1d0ed9ef5fe614a512cb
-https://gpm-matchtv-live-megafon2.mediavitrina.ru/dashp-livef1/matchtv/index.mpd
-
-##EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.onlinehdhls.ru/wmsxx.php?name=premium127&number=1
 
-##https://webudit.hlsjs.ru/lb/premium435/index.m3u8|referer=https://weblivehdplay.ru/
-##http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/535/index.m3u8
-##https://ddyx2.onlinewebtv.lol/ddyx2/premium127/playlist.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://salamus2023.onlinehdhls.ru/ddy2/premium127/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+
 
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png" group-title="SPORT",MATCH SPORT 1
 
