@@ -686,7 +686,10 @@ https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="tvtempo.id" tvg-logo="https://i.imgur.com/z22sDXa.png",TV Tempo
 
-https://ariev.vercel.app/api/play.m3u?id=7946&pw=wakanda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=7946&type=hls
+
 
 #EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NEWS",IDX
 
@@ -1290,9 +1293,9 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png
 #EXTVLCOPT:I_Love_OnlyFans
 #EXTVLCOPT:http-user-agent=TiviMate/4.6.1 (Linux; Android 9)
 
-##http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1697
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1697
 
-http://toh-users.xyz:8080/42204120/16250164/798445
+##http://toh-users.xyz:8080/42204120/16250164/798445
 ##https://maper.info/BOO_shareext
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Drama_Hebat_%282023%29.png" group-title="MOVIE", DRAMA HEBAT
@@ -1378,7 +1381,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-##http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 ##http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 
 ///cinenemamaichi///
@@ -1630,7 +1632,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-##http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+
 
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0US" group-title="MOVIE",HBO FAMILY
@@ -1646,7 +1648,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-##http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+
 
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0Vm" group-title="MOVIE",HBO SIGNATURE
@@ -2322,13 +2324,12 @@ EXTINF:-1 tvg-id="ChampionsTV6.id"  tvg-logo="https://i.postimg.cc/dV0rYbkX/Cham
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/NfHTh4Hc/ECDF-canal-football.jpg" group-title="SPORT",ECDF SPORT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/133847
+
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Football_tv.jpeg" group-title="SPORT",FOOTBALL TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
-##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
