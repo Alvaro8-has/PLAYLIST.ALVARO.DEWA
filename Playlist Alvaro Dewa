@@ -1888,11 +1888,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="ALVARO DEWA KIDZ",MENTARI TV
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
 
-http://xtv.ooo:8080/moon786/moon1200/350989
+##http://xtv.ooo:8080/moon786/moon1200/350989
 ##https://iptvme.xyz:443/vid/hls.m3u8?id=8237
-##https://ariev.vercel.app/api/play.m3u?id=8237&pw=wakanda
 ##http://103.166.27.2:8112/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="ALVARO DEWA KIDZ",MENTARI TV 2
@@ -1906,9 +1907,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hip_hip_horee.jpg" group-title="ALVARO DEWA KIDZ",HIP-HIP HOREE
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-http://iptvtree.net:8080/vid/hls.m3u8?id=7052
-http://myteve.online:8080/2d124d42/50dbd8b08e/298536
+https://srtv.my.id/vd/play.m3u8?id=7052&type=hls
+##http://iptvtree.net:8080/vid/hls.m3u8?id=7052
+##http://myteve.online:8080/2d124d42/50dbd8b08e/298536
 ##https://ariev.vercel.app/api/play.m3u?id=7052&pw=wakanda
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HOREE_logo.png" group-title="ALVARO DEWA KIDZ",HOREE
