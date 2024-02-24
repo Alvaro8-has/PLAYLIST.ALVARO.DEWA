@@ -43,7 +43,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://wearebla
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
-https://ariev.vercel.app/api/play.m3u?id=205&pw=wakanda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
@@ -59,7 +61,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
 
-https://ariev.vercel.app/api/play.m3u?id=204&pw=wakanda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE",LIGA BRI 1
@@ -80,7 +84,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 ##http://iptvtree.net:8080/F26646/f950f250/298550
 ##http://myteve.online:8080/2d124d42/50dbd8b08e/298550
 ##http://103.166.27.2:8112/play/a017/index.m3u8
-https://ariev.vercel.app/api/play.m3u?id=206&pw=wakanda&user-agent=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LIVE",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -96,7 +102,10 @@ https://link.zozotv.xyz/rozila969/abc12345/44
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="LIVE",RCTI
 
-https://link.zozotv.xyz:443/rozila969/abc12345/47
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+##https://link.zozotv.xyz:443/rozila969/abc12345/47
 
 #EXTINF:0 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="LIVE",FIFA TV
 
