@@ -1273,19 +1273,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 ##http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/etv%20bioskop.jpeg" group-title="MOVIE",ETV BIOSKOP 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/etv.png" group-title="MOVIE",ETV BIOSKOP 1
 
 http://iptvtree.net:8080/c4596f70/c3848d92/298526
 
-#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/etv%20bioskop.jpeg" group-title="MOVIE",ETV BIOSKOP 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/etv.png" group-title="MOVIE",ETV BIOSKOP 2
 
 http://iptvtree.net:8080/c4596f70/c3848d92/298527
 
-#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/etv%20bioskop.jpeg" group-title="MOVIE",ETV BIOSKOP 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/etv.png" group-title="MOVIE",ETV BIOSKOP 3
 
 http://iptvtree.net:8080/c4596f70/c3848d92/298528
 
-#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/etv%20bioskop.jpeg" group-title="MOVIE",ETV BIOSKOP 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/etv.png" group-title="MOVIE",ETV BIOSKOP 4
 
 http://iptvtree.net:8080/c4596f70/c3848d92/298529
 
