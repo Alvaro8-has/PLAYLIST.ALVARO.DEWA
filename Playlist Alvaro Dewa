@@ -2276,7 +2276,7 @@ http://iptvtree.net:8080/F26646/f950f250/298531
 #EXTINF:-1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg" group-title="SPORT",FIGTH TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=ramadhan1445
 ##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
@@ -2337,7 +2337,7 @@ https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Football_tv.jpeg" group-title="SPORT",FOOTBALL TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=ramadhan1445
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
@@ -2345,7 +2345,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777e
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/balaplogo.jpeg" group-title="SPORT",BALAP
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=ramadhan1445
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
@@ -2678,18 +2678,24 @@ https://01-24.webhd.ru/lb/premium539/index.m3u8|referer=https://weblivehdplay.ru
 https://01-24.webhd.ru/lb/premium435/index.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/True_premier_football.jpeg" group-title="SPORT",TRUE PREMIER FOOTBALL 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/TSport1/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/True_premier_football.jpeg" group-title="SPORT",TRUE PREMIER FOOTBALL 2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
-##https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|referer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/TSport2/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/True_premier_football.jpeg" group-title="SPORT",TRUE PREMIER FOOTBALL 3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/TSport3/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/True_premier_football.jpeg" group-title="SPORT",TRUE PREMIER FOOTBALL 4
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
-https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://laotv.la/
+https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/TSport4/manifest.mpd
 
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/True_premier_football.jpg" group-title="SPORT",TRUE PREMIER FOOTBALL 5
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
