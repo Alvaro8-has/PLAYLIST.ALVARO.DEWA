@@ -2300,7 +2300,7 @@ http://iptvtree.net:8080/F26646/f950f250/298531
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=ramadhan1445
-##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+##KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
@@ -2361,7 +2361,7 @@ https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=ramadhan1445
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
@@ -2369,7 +2369,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777e
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=ramadhan1445
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 EXTINF:-1 tvg-logo="https://i.postimg.cc/DZNXtnm8/Tvp-sport.png" group-title="SPORT",TVP SPORT
@@ -2599,8 +2599,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:c7:80:da&stream=56669&extension
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 
 ##https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
@@ -2613,8 +2613,8 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 ##https://01-24.webhd.ru/fls/cdn/premium446/playlist.m3u8|referer=https://weblivehdplay.ru/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FiUehCqDRXCoxaNNRaDWTQ","k":"tyQ3OWmMrQ1YrwHxQtE+rg"}]}
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
 
 EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="SPORT",DAZN 2 DIRECTO
@@ -2628,8 +2628,8 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157483
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xkVcWhrRSE+kApukmGWYOA","k":"Qyn7CMNESorps8R37+EQAg"}]}
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79
+https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="SPORT",DAZN 4
 
@@ -2637,8 +2637,8 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Mani
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e
+https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
 #https://01-24.webhd.ru/ddy5/cdn/premium448/playlist.m3u8|referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s" group-title="SPORT",DAZN RISE
