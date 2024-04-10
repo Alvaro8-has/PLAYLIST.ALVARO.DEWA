@@ -1513,23 +1513,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop Action
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop Action
 http://103.127.96.91:25461/91@v3new/mcyDhQtVV8/3273
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop China
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop China
 http://103.127.96.91:25461/91@v3new/mcyDhQtVV8/3274
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop Bollywood
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop Bollywood
 http://103.127.96.91:25461/91@v3new/mcyDhQtVV8/3275
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop Drama & Family
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop Drama & Family
 http://103.127.96.91:25461/91@v3new/mcyDhQtVV8/3276
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop Horror
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop Horror
 http://103.150.117.215:25461/215@v3new/mcyDhQtVV8/11787
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop Indonesia
 http://103.150.117.215:25461/215@v3new/mcyDhQtVV8/11788
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="MOVIE",Bioskop Warkop DKI
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE",Bioskop Warkop DKI
 http://103.150.117.215:25461/215@v3new/mcyDhQtVV8/11789
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/bioskop%20indonesia.jpeg" group-title="MOVIE", BIOSKOP INDONESIA
