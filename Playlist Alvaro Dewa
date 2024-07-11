@@ -534,7 +534,7 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="NASIONAL",ELSINTA TV
 
 #EXTVLCOPT:http-referrer=https://television-live.com/
-##https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+##http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
