@@ -528,7 +528,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/VTV%20TV.jpeg" group-title="NASIONAL",VTV
 
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/VTV.m3u8
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+##https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/VTV.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="NASIONAL",ELSINTA TV
 
@@ -4457,6 +4458,9 @@ https://yt.ariev.workers.dev/watch/Is03gZsBeq0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/640px-Nagaswara.svg.png" group-title="ALVARO DEWA MUSIK", NAGASWARA POP
 
 https://yt.ariev.workers.dev/ch/UCBUYQs0qyIqNX0PvtTOQORQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/640px-Nagaswara.svg.png" group-title="ALVARO DEWA MUSIK", Nagaswara Digital
+https://warningfm.github.io/utubeLive/nagaswarafmbgr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_indonesia.jpg" group-title="ALVARO DEWA MUSIK",ALBUM MUSIC
 
