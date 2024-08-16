@@ -571,7 +571,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NASIONAL",Magna Channel
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch111.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/jtv%20logo.png" group-title="NASIONAL",JTV
 
@@ -872,6 +873,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 https://inspiratv.siar.us/inspiratv/live/chunks.m3u8
 https://v6.siar.us:443/inspiratv/live/chunks.m3u8
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQz1sNYx/Jitv-logo.jpg" group-title="TV DAERAH",BMS TV
 
@@ -994,6 +996,8 @@ https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u
 https://v2.siar.us:443/jawapostv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="TV DAERAH",TATV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="TV DAERAH",RCTV
