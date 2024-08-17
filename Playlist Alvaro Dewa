@@ -86,7 +86,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 ##http://103.166.27.2:8112/play/a017/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://srtv.my.id/vd/play.m3u8?id=206&type=hls
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://telegra.ph/file/7b947156cfd182e1a59c0.png" group-title="LIVE",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -404,7 +404,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -553,7 +553,7 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/rw2Xykqj/Max2u-tv.jpg" group-title="NAS
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Kilat_tv.jpeg" group-title="NASIONAL",KILAT TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=wakanda
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 
 
