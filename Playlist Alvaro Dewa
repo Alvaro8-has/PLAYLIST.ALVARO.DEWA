@@ -541,7 +541,7 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://television-live.com/
 ##http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/TV%20kesehatan.jpeg" group-title="NASIONAL", TV KESEHATAN
 
