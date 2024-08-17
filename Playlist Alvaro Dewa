@@ -4483,21 +4483,22 @@ https://warningfm.github.io/utubeLive/nagaswarafmbgr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_indonesia.jpg" group-title="ALVARO DEWA MUSIK",ALBUM MUSIC
 
-https://yt.ariev.workers.dev/ch/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/IKONSER_logo.png" group-title="ALVARO DEWA MUSIK",IKONSER
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/204
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://yurend.com/play.mpd?id=useesport&key=usee&type=drm
-##http://yurend.com/play.mpd?id=ikonser&key=usee&type=dash
-EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_small1.png?v=2.0.0.13" group-title="ALVARO DEWA MUSIK",GADO-GADO MUSIK
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a30736e9c5d2a38dc7bd4.jpg" group-title="ALVARO DEWA MUSIK",POP MUSIK
+##http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/204
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=http://yurend.com/play.mpd?id=useesport&key=usee&type=drm
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-##http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/190.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="ALVARO DEWA MUSIK",MIC TV
+
+https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63GxCCc1/Dj-musik.png" group-title="ALVARO DEWA MUSIK",MUSIK DJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
@@ -4523,7 +4524,8 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="ALVARO DEWA MUSIK",SEXY KPOP MUSIC
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+
 EXTINF:-1 tvg-logo="https://i.postimg.cc/fWJGDxvX/Pop-music.jpg" group-title="ALVARO DEWA MUSIK",POP MUSIC
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_small1.png?v=2.0.0.13" group-title="ALVARO DEWA MUSIK",OXIGENO MUSIC
