@@ -167,7 +167,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.m
 ---------NASIONAL---------
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mhrYc3w/transtv.jpg" group-title="NASIONAL",TANSTV
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/dewa/transtv_logo.jpeg" group-title="NASIONAL",TANSTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -180,7 +180,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 ##KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
 ##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZfW7XJ/trans7.jpg" group-title="NASIONAL",TANS 7
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/dewa/Trans7_logo.jpeg" group-title="NASIONAL",TANS 7
 
 ##EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
