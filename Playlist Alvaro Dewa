@@ -88,7 +88,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LIVE",MOJI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://telegra.ph/file/7b947156cfd182e1a59c0.png" group-title="LIVE",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
  
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w1956055764_qRFZS.mpd?encp=&uid=&expp=
@@ -192,7 +192,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 ##https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 ##https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NASIONAL",MOJI HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b947156cfd182e1a59c0.png" group-title="NASIONAL",MOJI HD
 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 ##https://raw.githubusercontent.com/Alvaro8-has/Test/Dzaky/MOJI.m3u8
