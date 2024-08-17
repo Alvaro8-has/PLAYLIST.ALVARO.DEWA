@@ -76,7 +76,7 @@ https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LIVE", VOLI
+#EXTINF:0 tvg-id="" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="LIVE", VOLI
 
 ##EXTVLCOPT:http-user-agent=Android ExoPlayer/2.18.3
 
@@ -2031,9 +2031,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="ALVARO DEWA KIDZ",ANIPLUS
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/cc01fef411ca1bc547483.png" group-title="ALVARO DEWA KIDZ",ANIPLUS
 
-http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-title="ALVARO DEWA KIDZ",CBEEBIES BBC
 
