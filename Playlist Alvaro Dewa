@@ -568,7 +568,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NASIONAL",Nusantara
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NASIONAL",Magna Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
