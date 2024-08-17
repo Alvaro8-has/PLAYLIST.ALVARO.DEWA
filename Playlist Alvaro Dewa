@@ -1185,8 +1185,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGIUS" tvg-id="ajwatv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png",AJWA TV
-https://ariev.vercel.app/api/play.m3u?ch=ajwa&pw=nepotisme
+#EXTINF:-1 tvg-id="tv10.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tv10.png" group-title="RELIGIUS" ,TV10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Muslim_TV.png" group-title="RELIGIUS",MUSLIM TV
 
