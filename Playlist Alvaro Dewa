@@ -541,7 +541,7 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://television-live.com/
 ##http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/TV%20kesehatan.jpeg" group-title="NASIONAL", TV KESEHATAN
 
@@ -640,13 +640,13 @@ https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFOpaPo.pngtps://i.imgur.com/GFOpaPo.png" group-title="KNOWLEDGE",Learning & Knowledge
 http://rr.dens.tv/h/h97/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_Planet.jpg" group-title="KNOWLEDGE",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/3ee2ae7a38e631771aa2f.jpg" group-title="KNOWLEDGE",ANIMAL PLANET
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60354
+https://anutv.xyz/known/animal_planet.m3u8
 ##https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Geografik_channel.png" group-title="KNOWLEDGE",NATGEO CHANNEL
