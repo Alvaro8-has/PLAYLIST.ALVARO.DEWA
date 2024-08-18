@@ -995,7 +995,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w1985944233.m3u
 https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="TV DAERAH",JAWA POS TV
-https://v2.siar.us:443/jawapostv/live/chunks.m3u8
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="TV DAERAH",TATV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
