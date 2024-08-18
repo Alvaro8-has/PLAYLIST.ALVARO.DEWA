@@ -2923,20 +2923,26 @@ http://103.113.116.150:25461/mtm1/12345/60
 ##KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium420&number=1
 ##https://02-24.webhd.ru/ddy5/premium420/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
+#EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg",group-title="SPORT",SuperSport Blitz
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=ts
+
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT MAXIMO 1
 
 #EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium572&number=1
-https://02-24.webhd.ru/ddy1/premium572/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+##https://02-24.webhd.ru/ddy1/premium572/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT LA LIGA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium415&number=1
-https://02-24.webhd.ru/ddy3/premium415/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+##https://02-24.webhd.ru/ddy3/premium415/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT FOOTBALL
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
@@ -2945,7 +2951,7 @@ https://02-24.webhd.ru/ddy3/premium415/tracks-v1a1/mono.m3u8|referer=https://web
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium56&number=1
 https://02-24.webhd.ru/ddh1/premium56/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
-##http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60582
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT PREMIER LEAGUE
@@ -2954,8 +2960,8 @@ https://02-24.webhd.ru/ddh1/premium56/tracks-v1a1/mono.m3u8|referer=https://webl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium414&number=1
-https://02-24.webhd.ru/ddy3/premium414/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
-##https://kusnadipepenk.github.io/ntn/superprem.m3u8
+##https://02-24.webhd.ru/ddy3/premium414/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT MOTORSPORT
 
@@ -2974,7 +2980,7 @@ http://103.113.116.150:25461/mtm1/12345/58
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 #EXTVLCOPT:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60572
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
 ##https://01-24.webhd.ru/ddy5/premium423/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT RUGBY
@@ -2983,7 +2989,8 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60583
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT VARIETY 1
 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60577
+http://kstv.us:8080/live/tH300gvHff/8606073792/47628.m3u8
+
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
@@ -2991,7 +2998,7 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60577
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT VARIETY 2
 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60584
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
@@ -3002,12 +3009,12 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60584
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60579
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
 ##https://01-24.webhd.ru/ddy3/premium418/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="SPORT",SUPER SPORT VARIETY 4
 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60578
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 
