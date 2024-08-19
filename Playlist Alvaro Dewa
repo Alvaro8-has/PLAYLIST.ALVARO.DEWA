@@ -3067,25 +3067,23 @@ https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Digi_sport.jpeg" group-title="SPORT",DIGI SPORT 1
-https://fls.webhd.ru/fls/premium400/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://fls.hlsjs.ru/fls/premium400/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Digi_sport.jpeg" group-title="SPORT",DIGI SPORT 2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
-https://fls.webhd.ru/fls/premium401/playlist.m3u8|referer=https://fls.hlsjs.ru/fls/premium401/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Digi_sport.jpeg" group-title="SPORT",DIGI SPORT 3
 #EXTVLCOPT:http-referrer=https:https://weblivehdplay.ru/premiumtv/daddyhd.php
-
-https://fls.webhd.ru/fls/premium402/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
 #EXTVLCOPT:Mozilla/5.0 (Linux; Android 9; Redmi 6A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+
+https://webhdrunns.mizhls.ru/lb/premium402/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Digi_sport.jpeg" group-title="SPORT",DIGI SPORT 4
 #EXTVLCOPT:http-referrer=https:https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://fls.webhd.ru/fls/premium403/playlist.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="SPORT",ELEVEN SPORT 1
 ##EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -3146,34 +3144,31 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png" group-title="SPORT",PRIMA SPORT 1🇷🇴
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
-https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+https://webhdrunns.mizhls.ru/lb/premium583/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
 ##https://fls.hlsjs.ru/fls/premium583/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png" group-title="SPORT",PRIMA SPORT 2🇷🇴
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
-https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
+https://webhdrunns.mizhls.ru/lb/premium584/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 ##https://fls.hlsjs.ru/fls/premium584/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png" group-title="SPORT",PRIMA SPORT 3🇷🇴
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
-https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
+https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ##EXTVLCOPT:http-referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
@@ -3181,14 +3176,12 @@ https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Prima_sport.png" group-title="SPORT",PRIMA SPORT 4🇷🇴
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
-https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
+https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
 ##https://fls.hlsjs.ru/fls/premium585/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 group-title="SPORT" tvg-id=""  tvg-logo="https://i.ibb.co/nLNtj7C/premiersports1.png",PREMIERE SPORTS 1 🇮🇪
@@ -3600,94 +3593,73 @@ EXTVLCOPT:http-referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 ##https://ddy1.onlinewebtv.lol/ddy1/premium118/playlist.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 1
-
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE1.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-##https://01-24.webhd.ru/ddy5/premium622/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 2
-
-
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE2.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+
+https://webhdrunns.mizhls.ru/lb/premium623/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##https://01-24.webhd.ru/ddy5/premium623/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 3
-
-
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE3.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
+https://webhdrunns.mizhls.ru/lb/premium624/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##https://01-24.webhd.ru/ddy5/premium624/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 4
-
-
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE4.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
+https://webhdrunns.mizhls.ru/lb/premium625/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##https://01-24.webhd.ru/ddy5/premium625/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 5
 
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE5.m3u8
+https://webhdrunns.mizhls.ru/lb/premium626/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 6
 
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE6.m3u8
+https://webhdrunns.mizhls.ru/lb/premium627/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Cosmosport_logo.png" group-title="SPORT",COSMOSPORT 7
 
-https://raw.githubusercontent.com/Alvaro8-has/NASIONAL/Dzaky/COSMOTE7.m3u8
+https://webhdrunns.mizhls.ru/lb/premium628/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Orange_sport.png" group-title="SPORT",ORANGE SPORT 1
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sRUX3jEvyrXLoGvjXkghOA","k":"gGVzp0eJppZRwWLaTbtVJg"}]}
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+https://webhdrunns.mizhls.ru/lb/premium439/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 ##https://fls.webhd.ru/fls/premium439/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
-
-
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Orange_sport.png" group-title="SPORT",ORANGE SPORT 2
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"91MCzbBKCeQ_FTCVvKzRIw","k":"MHv4idkpaf_TAU3dtnmZ9g"}]}
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"91MCzbBKCeQ_FTCVvKzRIw","k":"MHv4idkpaf_TAU3dtnmZ9g"}]}
+https://webhdrunns.mizhls.ru/lb/premium440/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
 ##https://fls.webhd.ru/fls/premium440/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Orange_sport.png" group-title="SPORT",ORANGE SPORT 3
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"uHhXunTOA_n6KGbx4IbQXQ","k":"HNKJrHHOX7MGpedlMZLOOg"}]}
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"uHhXunTOA_n6KGbx4IbQXQ","k":"HNKJrHHOX7MGpedlMZLOOg"}]}
+https://webhdrunns.mizhls.ru/lb/premium441/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
 ##https://fls.webhd.ru/fls/premium441/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Orange_sport.png" group-title="SPORT",ORANGE SPORT 4
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ICqSfNkTEB3nZbDluz9QDw","k":"zdOZhpBXvDTIJ_JX9WJkOg"}]}
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ICqSfNkTEB3nZbDluz9QDw","k":"zdOZhpBXvDTIJ_JX9WJkOg"}]}
+https://webhdrunns.mizhls.ru/lb/premium442/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
 ##https://fls.webhd.ru/fls/premium442/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Astro_arena_bola.jpg" group-title="SPORT",ASTRO ARENA BOLA
