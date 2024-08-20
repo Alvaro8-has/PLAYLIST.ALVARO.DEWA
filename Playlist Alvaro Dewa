@@ -4173,25 +4173,17 @@ https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000110_019562/manifest.
 https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=jjj&chname=W-Sport
 
 #EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.ibb.co/HV2c1Cc/ziggosport.png" group-title="SPORT", ZIGGO SPORT 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kOMqRxL1SAureryKT+8l2g","k":"LutJqGiPI2XhExz0rk1vCg"}]}
-https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
+https://webhdrunns.mizhls.ru/lb/premium393/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://i.ibb.co/n6Mcj2q/ziggosportdocu.png" group-title="SPORT", ZIGGO SPORT DOCU 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JVhqXKIIR9aEV5zODC7KzA","k":"nJIWKyNwllNoikcb7Azxmw"}]}
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000098_019255/manifest.mpd
+https://webhdrunns.mizhls.ru/lb/premium383/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="SPORT", ZIGGO SPORT GOLF 🇳🇱
+##EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="SPORT", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000096_019382/manifest.mpd
+#https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000096_019382/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="SPORT", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4201,32 +4193,24 @@ https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000096_019382/manifest.
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Racing" tvg-logo="https://i.ibb.co/NYmK4YW/ziggoracing.png" group-title="SPORT", ZIGGO SPORT RACING 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JVhqXKIIR9aEV5zODC7KzA","k":"nJIWKyNwllNoikcb7Azxmw"}]}
-https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000097_019370/manifest.mpd
+https://webhdrunns.mizhls.ru/lb/premium396/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.ibb.co/995ZNdQ/ziggoselect.png" group-title="SPORT", ZIGGO SPORT SELECT 🇳🇱
+##EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.ibb.co/995ZNdQ/ziggoselect.png" group-title="SPORT", ZIGGO SPORT SELECT 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JVhqXKIIR9aEV5zODC7KzA","k":"nJIWKyNwllNoikcb7Azxmw"}]}
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.mpd
+#https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ziggo Sport Tennis" tvg-logo="https://i.ibb.co/svTpVxv/ziggotennis.png" group-title="SPORT", ZIGGO SPORT TENNIS 🇳🇱
+##EXTINF:-1 tvg-id="Ziggo Sport Tennis" tvg-logo="https://i.ibb.co/svTpVxv/ziggotennis.png" group-title="SPORT", ZIGGO SPORT TENNIS 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JVhqXKIIR9aEV5zODC7KzA","k":"nJIWKyNwllNoikcb7Azxmw"}]}
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000099_019256/manifest.mpd
+#https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000099_019256/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://i.ibb.co/0FcGk4N/ziggosportvoetbal.png" group-title="SPORT", ZIGGO SPORT VOETBAL 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JVhqXKIIR9aEV5zODC7KzA","k":"nJIWKyNwllNoikcb7Azxmw"}]}
-https://da-b948790220010678082c00030000000000000002.id.cdn.upcbroadband.com/wp/wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000095_019371/manifest.mpd
+https://webhdrunns.mizhls.ru/lb/premium398/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="SPORT",EUROSPORT 1
 
