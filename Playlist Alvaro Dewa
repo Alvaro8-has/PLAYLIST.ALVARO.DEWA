@@ -1615,17 +1615,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Zee_cinema.jpg" group-title="MOVIE",ZEE CINEMA
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/zee%20biokop.png" group-title="MOVIE",ZEE ACTION
 
 
-https://sports247.eu.org/M3U1/app/live.php?id=165&e=.m3u8
-##http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/143
-##http://live.geoiptv.org:8880/live/romeo123/romeo321/326331.ts
-##http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/3971
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="And Pictures HD" tvg-type="" group-title="MOVIE" tvg-language="indonesia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",& Pictures HD
+#EXTINF:-1 tvg-id="" tvg-name="And Pictures HD" tvg-type="" group-title="MOVIE" tvg-language="indonesia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",& Pictures HD
 
-https://sports247.eu.org/M3U1/app/live.php?id=185&e=.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-type="Movies" group-title="MOVIE" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",ZEE ACTION
 
@@ -2479,95 +2476,56 @@ https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|referer=https://lewblivehd
 
 https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://i.ibb.co/vB7bXFy/skysportarena.png" group-title="SPORT", Sky SPORT ARENA 🇮🇹
+##EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://i.ibb.co/vB7bXFy/skysportarena.png" group-title="SPORT", Sky SPORT ARENA 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
+#http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co/qkrBGMd/skycalcio.png" group-title="SPORT", Sky SPORT CALCIO 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co/qkrBGMd/skycalcio.png" group-title="SPORT", Sky SPORT BUNDES LIGA 🇮🇹
+https://webhdrunns.mizhls.ru/lb/premium558/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://i.ibb.co/4Jd3RWS/skysportf1.png" group-title="SPORT", Sky SPORT F1 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036aca3ce896fe790ef07e89b74cae4:58145ec5b35e7f62555c2ed5f3ef2342
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://i.ibb.co/my2yBKk/skysportgolf.png" group-title="SPORT", Sky SPORT GOLF 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a02f08506f8428164d78e3ebb6de:8708612971e3cfa8e03698996b1a3b7f
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium574/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Sky Sport Max.it" tvg-logo="https://i.ibb.co/GMN63tR/skysportmax.png" group-title="SPORT", Sky SPORT MAX 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a901e6f0381cfd1b6fcf10cc6038:4fbb022704c9abcbb709484a5667fd79
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium559/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.ibb.co/TBWFWwZ/skymtgp.png" group-title="SPORT", Sky SPORT MOTOGP 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Sky Sport NBA.it" tvg-logo="https://i.ibb.co/nr96717/skysportnba.png" group-title="SPORT", Sky SPORT NBA 🇮🇹
+##EXTINF:-1 tvg-id="Sky Sport NBA.it" tvg-logo="https://i.ibb.co/nr96717/skysportnba.png" group-title="SPORT", Sky SPORT NBA 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master.mpd
+#https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-logo="https://i.ibb.co/c6K7jnb/skysportennis.png" group-title="SPORT", Sky SPORT TENNIS 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium576/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.ibb.co/hFrqB1J/skysportuno.png" group-title="SPORT", Sky SPORT UNO 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium461/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT FOOTBALL
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-##http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298592
-##https://sky.webhd.ru/sky/premium35/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508248
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT RACING
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT 1 UNO
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
-
-##http://mol-2.com:8080/play/live.php?mac=00:1A:79:c7:80:da&stream=56599&extension=ts&play_token=Eiq1iZ4r9G
+https://webhdrunns.mizhls.ru/lb/premium554/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT MIX
+https://webhdrunns.mizhls.ru/lb/premium449/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
-http://linear032-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT CRIKET
+
+https://webhdrunns.mizhls.ru/lb/premium65/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
@@ -2576,57 +2534,35 @@ http://linear032-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT MAIN EVENT
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508252
-##https://sky.hlsjs.ru/sky/premium38/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium38/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003e5d66d7501ff2930c80e9b5609fc:32661be41b5b713dcd88683cd389af21
-https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
+https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ##http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60575
 ##http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508256
 ##https://ddy3.hlsjs.ru/ddy3/premium130/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT ARENA
+https://webhdrunns.mizhls.ru/lb/premium36/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
-http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508240
-https://ddy1.hlsjs.ru/ddy1/premium36/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT ACTION
+https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT GOLF
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
-http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508250
-https://ddy4.hlsjs.ru/ddy1/premium70/playlist.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium574/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT F1
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-
-
-http://jmrk.xyz:8080/vsmith429@aol.com/ZZ0sA0xZdr/508246
-##https://sky.hlsjs.ru/sky/premium60/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="SPORT",SKY SPORT MOTOR GP
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
-
-##https://ddh1.hlsjs.ru/ddh1/premium575/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/zona%20dazn.jpeg" group-title="SPORT",ZONA DAZN
 
@@ -2720,24 +2656,17 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 ##https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 https://01-24.webhd.ru/ddy6/premium537/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
-##EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/movistar-logo.png" group-title="SPORT",MOVISTAR 1
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/movistar-logo.png" group-title="SPORT",MOVISTAR 1
 
+https://webhdrunns.mizhls.ru/lb/premium436/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/movistar-logo.png" group-title="SPORT",MOVISTAR 2
 
-https://01-24.webhd.ru/lb/premium435/index.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium438/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-##EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/movistar-logo.png" group-title="SPORT",MOVISTAR 2
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/movistar-logo.png" group-title="SPORT",MOVISTAR 3
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-https://01-24.webhd.ru/lb/premium539/index.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-##EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/movistar-logo.png" group-title="SPORT",MOVISTAR 3
-
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-https://01-24.webhd.ru/lb/premium435/index.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium526/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/True_premier_football.jpeg" group-title="SPORT",TRUE PREMIER FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2869,21 +2798,13 @@ http://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6KPdSr/viaplay.png" group-title="SPORT",VIAPLAY SPORT
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ee48bb7ef5a536a61121a.png" group-title="SPORT",VIAPLAY SPORT1
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+https://webhdrunns.mizhls.ru/lb/premium451/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQwT2fS/vsport1.png" group-title="SPORT",VIAPLAY SPORT 1
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ee48bb7ef5a536a61121a.png" group-title="SPORT",VIAPLAY SPORT 2
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://webhdrunns.mizhls.ru/lb/premium550/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 #EXTINF:-1 tvg-id="V Sport Football" tvg-logo="https://i.ibb.co/hWDYVJx/vsportfootball.png" group-title="SPORT",  V SPORT FOOTBALL
@@ -3880,37 +3801,28 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 ##https://01-24.webhd.ru/ddh1/premium139/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel.jpeg" group-title="SPORT",SPORT TV 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-https://02-24.webhd.ru/ddyx2/premium140/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium140/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel2.jpeg" group-title="SPORT",SPORT TV 2
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-
-https://02-24.webhd.ru/ddy3/premium141/tracks-v1a1/mono.m3u8|referer:https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium141/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel3.jpeg" group-title="SPORT",SPORT TV 3
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-https://02-24.webhd.ru/ddy3/premium142/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium142/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel3.jpeg" group-title="SPORT",SPORT TV 4
 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
-
-https://02-24.webhd.ru/ddy3/premium143/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium143/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Sport_tv_israel3.jpeg" group-title="SPORT",SPORT TV 5
 
-https://02-24.webhd.ru/ddy3/premium144/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/premiumtv/daddyhd.php&User-agent=Mozilla/5.0&Origin=https://weblivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium144/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pLGdSHG/sctv15ssport2.png" group-title="SPORT",SCTV SPORT 1
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+##EXTINF:-1 tvg-logo="https://i.ibb.co/pLGdSHG/sctv15ssport2.png" group-title="SPORT",SCTV SPORT 1
+#https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/T3ngyb6T/sctv.png" group-title="SPORT",SCTV SPORT 2
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w776628860_b1692000.m3u8
+##https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w776628860_b1692000.m3u8
 EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/pl-canalsport1.png" group-title="SPORT",CANAL + 1
 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -4214,11 +4126,7 @@ https://webhdrunns.mizhls.ru/lb/premium398/index.m3u8|referer=https://lewblivehd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="SPORT",EUROSPORT 1
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
+https://webhdrunns.mizhls.ru/lb/premium469/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 
@@ -4226,28 +4134,20 @@ https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/mast
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png" group-title="SPORT",EUROSPORT 2
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master.mpd
-
-##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-
-##https://01-24.webhd.ru/ddy4/premium42/playlist.m3u8|referer=https://weblivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium470/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/0NkpDw5k/Mma-tv.jpg" group-title="SPORT",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/TwqK7xVJ/Claro-sport.png" group-title="SPORT",CLARO SPORT
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7GJnHMX/adsport1.png" group-title="SPORT",ABU DHABI SPORT 1
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f06d4e92440787e81ddf8.png" group-title="SPORT",ABU DHABI SPORT 1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9vLdWtm/adsport2.png" group-title="SPORT",ABU DHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f06d4e92440787e81ddf8.png" group-title="SPORT",ABU DHABI SPORT 2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
@@ -4255,15 +4155,15 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 ##EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png" group-title="SPORT",ABU DHABI SPORT PREMIUM
 http://txm1.flysat.live:2089/live/152067508065276/152022654820017/247172.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xuFbLf7.png" group-title="SPORT",DUBAI SPORT 1
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0f2b7a32a9ae5c7784047.jpg" group-title="SPORT",DUBAI SPORT 1
 
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o8RMWHE.png" group-title="SPORT",DUBAI SPORT 2
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0f2b7a32a9ae5c7784047.jpg" group-title="SPORT",DUBAI SPORT 2
 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/XjOO8ri.png" group-title="SPORT",DUBAI SPORT 3
+##EXTINF:-1 tvg-logo="https://telegra.ph/file/0f2b7a32a9ae5c7784047.jpg" group-title="SPORT",DUBAI SPORT 3
 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
@@ -4398,12 +4298,10 @@ http://61.19.242.134/feed/202205171929/chtsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_small1.png?v=2.0.0.13" group-title="ALVARO DEWA MUSIK",DUNIA DANGDUT
 http://jakarta.nagaswarafm.com:8200/stream
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRFXVDDD/Nusantara-logo.jpg" group-title="ALVARO DEWA MUSIK",NUSANTARA
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be4d55ce58dd&genreId=10
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
-
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png" group-title="ALVARO DEWA MUSIK",Citra Dangdut (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1vncgr/Indonesia-musik.jpg" group-title="ALVARO DEWA MUSIK",MUSIK INDONESIA
 
@@ -4456,8 +4354,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvqNMfV7/images-20.jpg" group-title="ALVARO DEWA MUSIK",MOLA TV HITS
-http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_musikindo_small.png" group-title="ALVARO DEWA MUSIK",MUSIK INDONESIA
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png" group-title="ALVARO DEWA MUSIK",MTV MUSIK
 
@@ -4481,11 +4379,11 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Clasik_rock.jpg" group-title="ALVARO DEWA MUSIK",SLOW Rock
 
-https://d2yhuqxy1ky6ij.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/5d054ed8-f601-492f-b4c0-fff8630445ef/0.m3u8
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Slow_rock.jpg" group-title="ALVARO DEWA MUSIK",VEVO POP
 
-https://d28edobz3hqdpi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/e4969648-fcb0-4465-8d0e-7e55ef6be8e0/0.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Vevo_logo.jpg" group-title="ALVARO DEWA MUSIK",VEVO ROCK
 
